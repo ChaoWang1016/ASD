@@ -1,6 +1,8 @@
 # ASD (Accurate and Safe Detector)
 Matlab code for the paper "Towards an accurate and secure detector against adversarial perturbations".
-[[paper arxiv]([https://github.com/geniusguys/study-ui/blob/master/LICENSE](https://arxiv.org/abs/2305.10856))]
+
+[paper arxiv]([https://github.com/geniusguys/study-ui/blob/master/LICENSE](https://arxiv.org/abs/2305.10856))
+
 Code implemented by Chao Wang. All rights reserved.
 
 # Overview
